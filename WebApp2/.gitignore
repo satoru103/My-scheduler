@@ -1,0 +1,43 @@
+# Java
+*.class
+*.war
+*.ear
+
+# Eclipse
+#.project
+# .classpath
+#.settings
+.dbeaver
+
+# Idea
+.idea
+*.iml
+*.iws
+*.ipr
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Gradle
+.gradle
+!gradle-wrapper.jar
+
+# Maven
+target
+
+# Build
+out
+build/
+bin
+
+# Office
+~$*
+*.tmp
+.~lock.*
+
+# Other
+*.log
+*.swp
+*.bak
